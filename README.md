@@ -1,0 +1,3 @@
+-  Hi, I’m @stevemindy
+-  I’m interested in making ui elemets and websites
+-  I’m currently learning HTML5, CSS, JavaScript and C#
